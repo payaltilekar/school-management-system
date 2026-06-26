@@ -3,43 +3,43 @@
         {
             "name": "payal",
             "age": 21,
-            "email": "payaltilekar@gmail.com",
+            "email": "payal@gmail.com",
             "roll_no": "1",
             "grades": {
                 "maths": 90.0
             }
         },
         {
-            "name": "asmita",
+            "name": "neha",
             "age": 20,
-            "email": "asmitalaykar@gmail.com",
+            "email": "neha@gmail.com",
             "roll_no": "2",
             "grades": {
                 "dbms": 90.0
             }
         },
         {
-            "name": "mayuri",
+            "name": "krupa",
             "age": 21,
-            "email": "mayuri@gmail.com",
+            "email": "krupa@gmail.com",
             "roll_no": "3",
             "grades": {
                 "dbms": 95.0
             }
         },
         {
-            "name": "prathamesh ",
+            "name": "radha ",
             "age": 21,
-            "email": "prathamesh@gmail.com",
+            "email": "radha@gmail.com",
             "roll_no": "4",
             "grades": {}
         }
     ],
     "teachers": [
         {
-            "name": "sana",
+            "name": "rohan",
             "age": 27,
-            "email": "sana@gmail.com",
+            "email": "rohan.com",
             "subject": "DBMS",
             "emp_id": "1"
         }

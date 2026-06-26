@@ -2,7 +2,7 @@ import json
 from abc import ABC,abstractmethod
 from pathlib import Path
 
-database = "school_data.json"
+database = database = "your_new_file_name.json"
 data = {"students" : [],"teachers" :[]}
 
 if Path(database).exists():
