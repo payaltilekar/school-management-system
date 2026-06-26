@@ -93,6 +93,14 @@ streamlit run app.py
 
 ---
 
+## 🌐 Live Demo
+
+Try the application online:
+
+🔗 https://school-management-system-hwknkbnfowvxkncpfcx8kx.streamlit.app/
+
+
+
 ## 👩‍💻 Author
 
 **Payal Tilekar**
